@@ -1,0 +1,12 @@
+Please select operation -
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+
+Select operations form 1, 2, 3, 4 :3
+Enter first number: 2
+Enter second number: 4
+2 * 4 = 8
+
+=== Code Execution Successful ===

@@ -1,0 +1,71 @@
+--- Contact Management System ---
+1. Add Contact
+2. View Contact List
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Enter your choice (1-6): 1
+Enter contact name: riya
+Enter phone number: 9000000000
+Enter email: riya@gmail.com
+Enter address: banglore,India
+
+Contact 'riya' added successfully!
+
+
+--- Contact Management System ---
+1. Add Contact
+2. View Contact List
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Enter your choice (1-6): 3
+Enter name or phone number to search: riya
+
+--- Search Results ---
+
+Name: riya
+Phone: 9000000000
+Email: riya@gmail.com
+Address: banglore,India
+
+
+--- Contact Management System ---
+1. Add Contact
+2. View Contact List
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Enter your choice (1-6): 
+Invalid choice. Please select a valid option.
+
+--- Contact Management System ---
+1. Add Contact
+2. View Contact List
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Enter your choice (1-6): 3
+Enter name or phone number to search: riya
+
+--- Search Results ---
+
+Name: riya
+Phone: 9000000000
+Email: riya@gmail.com
+Address: banglore,India
+
+
+--- Contact Management System ---
+1. Add Contact
+2. View Contact List
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Enter your choice (1-6): 
+=== Session Ended. Please Run the code again ===
